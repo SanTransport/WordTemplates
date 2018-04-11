@@ -8,11 +8,11 @@ How to use:
 Changes to Normal.dotm:
 1.	All styles (except code) in Garamond: All styles are single-spaced between lines (and between paragraphs)
 2.	Added styles for:
-  a.	Code (appears with light yellow background)
-  b.	Normal with first line indent
-    i.	Paragraphs after a heading are not first-line indented
-    ii.	2nd paragraph after heading and onward are first-line indented
-  c.	External Hyperlinks (uses macro)
-  d.	Cross references (uses macro)
+a.	Code (appears with light yellow background)
+b.	Normal with first line indent
+i.	Paragraphs after a heading are not first-line indented
+ii.	2nd paragraph after heading and onward are first-line indented
+c.	External Hyperlinks (uses macro)
+d.	Cross references (uses macro)
 3.	Margins are narrowed
 4.	Added page numbers
